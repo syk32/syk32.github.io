@@ -132,7 +132,6 @@ h1{
 .profile-img{
   width: 80px;
   height: 80px;
-  border-radius: 50%;
   object-fit: cover;
   border: 2px solid rgba(106,166,255,.65);
   box-shadow: 0 10px 28px rgba(0,0,0,.35);
