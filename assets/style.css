@@ -300,3 +300,7 @@ h1{
 
   .profile-img{ width:96px; height:96px; }
 }
+
+.footer-text {
+  text-align: center;
+}
