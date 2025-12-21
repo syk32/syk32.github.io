@@ -302,5 +302,7 @@ h1{
 }
 
 .footer-text {
+  width: 100%;
   text-align: center;
+  margin: 0 auto;
 }
