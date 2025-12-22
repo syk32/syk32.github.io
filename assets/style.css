@@ -113,7 +113,7 @@ h1{
   color:var(--muted);
 }
 .hero-card{
-  background:linear-gradient(180deg, rgba(106,166,255,.10), rgba(17,19,26,.35));
+  background:#ffffff;
   border:1px solid var(--line);
   border-radius:18px;
   padding:18px;
