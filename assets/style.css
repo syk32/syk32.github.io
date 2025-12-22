@@ -135,7 +135,7 @@ h1{
 }
 
 .profile-img{
-  width: 110px;          /* 🔥 작지 않게 */
+  width: 80px;          /* 🔥 작지 않게 */
   height: 110px;
   object-fit: cover;
   border-radius: 14px;   /* 둥근 사각형 (원 X) */
