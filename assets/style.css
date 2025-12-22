@@ -135,8 +135,9 @@ h1{
 }
 
 .profile-img{
-  width: 120px;          /* 🔥 작지 않게 */
-  height: 160px;
+  width: 1120px;          /* 🔥 작지 않게 */
+  height: 1160px;
+  border: 1.5px solid #1f2937;
 }
 
 .profile-text h1{
