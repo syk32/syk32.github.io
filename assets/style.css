@@ -137,11 +137,6 @@ h1{
 .profile-img{
   width: 80px;          /* 🔥 작지 않게 */
   height: 110px;
-  object-fit: cover;
-  border-radius: 14px;   /* 둥근 사각형 (원 X) */
-  border: 2px solid rgba(106,166,255,.65);
-  box-shadow: 0 10px 28px rgba(0,0,0,.35);
-  flex-shrink: 0;        /* 텍스트 때문에 줄어들지 않게 */
 }
 
 .profile-text h1{
